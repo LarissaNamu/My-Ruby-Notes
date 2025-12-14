@@ -1,6 +1,9 @@
 # My-Ruby-Notes
 My Repo with Ruby Projects and Notes
 
+## Odin Assignments
+https://github.com/LarissaNamu/ruby-exercises
+
 ## Installing Ruby
 https://launchschool.com/books/ruby/read/preparations#usingacodeeditor
 
